@@ -8,6 +8,10 @@ Construir un agente de ciberseguridad autónomo. El proyecto documentará progre
 
 Las capacidades de análisis, decisión y respuesta del agente, así como su grado de autonomía, están pendientes de definir e implementar.
 
+## Origen de la idea
+
+La idea de este proyecto está inspirada en el repositorio [Atlantium-AI/wazuh-n8n-lab-setup](https://github.com/Atlantium-AI/wazuh-n8n-lab-setup), que se reconoce como referencia de partida para este laboratorio.
+
 ## Estado actual
 
 Estado documentado a partir de los avances comunicados por el autor el **17 de noviembre de 2026**.
