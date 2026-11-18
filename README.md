@@ -10,7 +10,7 @@ Las capacidades de análisis, decisión y respuesta del agente, así como su gra
 
 ## Estado actual
 
-Estado documentado a partir de los avances comunicados por el autor el **17 de noviembre de 2026**.
+Estado actualizado el **18 de noviembre de 2026** a partir de los avances comunicados por el autor.
 
 | Componente | Ubicación prevista | Estado confirmado |
 |---|---|---|
@@ -19,12 +19,12 @@ Estado documentado a partir de los avances comunicados por el autor el **17 de n
 | Wazuh | Docker | Instalado |
 | n8n | Docker | Instalado |
 | Red Docker `soc-net` | Docker | Incluida en el diseño; configuración pendiente de documentar |
-| auditd | Ubuntu, fuera de Docker | Pendiente de instalar |
-| Atomic Red Team | Ubuntu, fuera de Docker | Pendiente de instalar |
+| auditd | Ubuntu, fuera de Docker | Instalado |
+| Atomic Red Team | Ubuntu, fuera de Docker | Instalado |
 | Wazuh en el anfitrión | Ubuntu, fuera de Docker | Incluido en el diseño; función como agente e instalación pendientes de confirmar |
 | Postman | Ubuntu, fuera de Docker | Incluido en el diseño; instalación pendiente de confirmar |
 
-La instalación de Wazuh y n8n está confirmada por el autor. Las configuraciones, la conectividad y el funcionamiento conjunto se documentarán con evidencias conforme avance el proyecto.
+El autor ha confirmado la instalación de Wazuh, n8n, auditd y Atomic Red Team. Las configuraciones, la conectividad y el funcionamiento conjunto se documentarán con evidencias conforme avance el proyecto.
 
 
 ### Función prevista de los componentes
@@ -48,6 +48,7 @@ Estas funciones describen el diseño previsto. Las integraciones entre component
 | Fecha | Avance |
 |---|---|
 | 2026-11-17 | Documentación inicial del objetivo, la arquitectura prevista y el estado comunicado: Docker, Wazuh y n8n instalados; auditd y Atomic Red Team pendientes. |
+| 2026-11-18 | Instalación de auditd y Atomic Red Team en el anfitrión Ubuntu, fuera de Docker. |
 
 ## Origen de la idea
 
