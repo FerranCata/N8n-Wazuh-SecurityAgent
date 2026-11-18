@@ -28,7 +28,7 @@ Estado actualizado el **18 de noviembre de 2026** a partir de los avances comuni
 | Red Docker `soc-net` | Docker | Incluida en el diseño; configuración pendiente de documentar |
 | auditd | Ubuntu, fuera de Docker | Instalado |
 | Atomic Red Team | Ubuntu, fuera de Docker | Instalado |
-| Wazuh en el anfitrión | Ubuntu, fuera de Docker | Incluido en el diseño; función como agente e instalación pendientes de confirmar |
+| Wazuh en el anfitrión | Ubuntu, fuera de Docker | Instalado |
 | Postman | Ubuntu, fuera de Docker | Incluido en el diseño; instalación pendiente de confirmar |
 
 El autor ha confirmado la instalación de Wazuh, n8n, auditd y Atomic Red Team. Las configuraciones, la conectividad y el funcionamiento conjunto se documentarán con evidencias conforme avance el proyecto.
@@ -44,7 +44,7 @@ El autor ha confirmado la instalación de Wazuh, n8n, auditd y Atomic Red Team. 
 | n8n | Orquestación de flujos de automatización e integraciones |
 | auditd | Generación de registros de auditoría del sistema Ubuntu |
 | Atomic Red Team | Ejecución de pruebas controladas para evaluar la detección |
-| Agente Wazuh, pendiente de confirmar | Recogida y envío de eventos del anfitrión |
+| Agente Wazuh| Recogida y envío de eventos del anfitrión |
 | Postman | Pruebas de peticiones e integraciones mediante API |
 
 Estas funciones describen el diseño previsto. Las integraciones entre componentes todavía no están documentadas como operativas.
