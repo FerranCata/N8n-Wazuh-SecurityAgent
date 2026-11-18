@@ -12,6 +12,11 @@ Las capacidades de análisis, decisión y respuesta del agente, así como su gra
 
 Estado actualizado el **18 de noviembre de 2026** a partir de los avances comunicados por el autor.
 
+
+## Arquitectura Prevista
+<img width="1448" height="1086" alt="imagen" src="https://github.com/user-attachments/assets/0fec70c0-19ef-4892-ac79-f67432769e67" />
+
+
 | Componente | Ubicación prevista | Estado confirmado |
 |---|---|---|
 | Ubuntu | Máquina anfitriona del laboratorio | Entorno del proyecto |
