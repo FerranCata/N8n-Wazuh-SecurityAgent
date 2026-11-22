@@ -14,7 +14,8 @@ Estado actualizado el **18 de noviembre de 2026** a partir de los avances comuni
 
 
 ## Arquitectura Prevista
-<img width="1448" height="1086" alt="imagen" src="https://github.com/user-attachments/assets/0fec70c0-19ef-4892-ac79-f67432769e67" />
+<img width="1448" height="1086" alt="imagen" src="https://github.com/user-attachments/assets/b73313ee-684e-488b-8a04-204ccddddd06" />
+
 
 
 
