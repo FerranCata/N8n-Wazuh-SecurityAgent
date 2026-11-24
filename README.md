@@ -10,7 +10,7 @@ Las capacidades de análisis, decisión y respuesta del agente, así como su gra
 
 ## Estado actual
 
-Estado actualizado el **18 de noviembre de 2026** a partir de los avances comunicados por el autor.
+Estado actualizado el **24 de noviembre de 2026** a partir de los avances comunicados por el autor.
 
 
 ## Arquitectura Prevista
@@ -29,7 +29,7 @@ Estado actualizado el **18 de noviembre de 2026** a partir de los avances comuni
 | Red Docker `soc-net` | Docker | Incluida en el diseño; configuración pendiente de documentar |
 | auditd | Ubuntu, fuera de Docker | Instalado |
 | Atomic Red Team | Ubuntu, fuera de Docker | Instalado |
-| Wazuh en el anfitrión | Ubuntu, fuera de Docker | Instalado |
+| Agente Wazuh | Ubuntu, fuera de Docker | Instalado y configurado para leer los registros de auditd |
 
 El autor ha confirmado la instalación de Wazuh, n8n, auditd y Atomic Red Team. Las configuraciones, la conectividad y el funcionamiento conjunto se documentarán con evidencias conforme avance el proyecto.
 
@@ -55,6 +55,7 @@ Estas funciones describen el diseño previsto. Las integraciones entre component
 |---|---|
 | 2026-11-17 | Documentación inicial del objetivo, la arquitectura prevista y el estado comunicado: Docker, Wazuh y n8n instalados; auditd y Atomic Red Team pendientes. |
 | 2026-11-18 | Instalación de auditd y Atomic Red Team en el anfitrión Ubuntu, fuera de Docker. |
+| 2026-11-24 | Se documentó la configuración del agente Wazuh del anfitrión para leer los registros de auditd. [Ver configuración](docs/wazuh-auditd.md). |
 
 ## Origen de la idea
 
